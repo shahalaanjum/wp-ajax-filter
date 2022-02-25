@@ -9,6 +9,4 @@ Display any custom posts types with any custom taxonomy with attributes as follo
 
 [ajax_posts_filter postype="YOUR_CPT_NAME" taxtype="YOUR_TAXONOMY_NAME"]
 
-Currently The plugin supports one post type with one taxonomy.
-
 Please modify the taxonomy in the code accordingly (since currently it has been set to filter for tag and category only)
